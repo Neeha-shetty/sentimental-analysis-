@@ -130,7 +130,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to reach out:
 
 - **GitHub**: [Neeha-shetty](https://github.com/Neeha-shetty)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
+- **Email**: shettyneeha21@gmail.com
 
 ---
 
