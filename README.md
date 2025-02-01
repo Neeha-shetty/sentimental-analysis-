@@ -1,2 +1,0 @@
-# sentimental-analysis-
-using ml
